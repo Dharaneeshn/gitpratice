@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 file 3 is created
 and it is updated
+=======
+file3 is created
+>>>>>>> branch1
